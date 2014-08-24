@@ -11,5 +11,9 @@ rrdtool
 Usage
 ------
 
+1) Create the rrd file using the ```create.sh``` script
+
+2) Execute ```graph.sh``` to generate the graph.
+
 More info:
 http://www.oetiker.ch
